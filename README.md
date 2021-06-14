@@ -25,9 +25,10 @@ Hi, I'm tsukasa38, a first year master's student in Japan.
 <code><a href="https://www.java.com/"><img height="30" alt="Java" src="https://user-images.githubusercontent.com/73925434/121836606-c13a6d00-cd0e-11eb-84a0-08ce9d505ef6.png"></a></code> |
 <code><a href="https://www.php.net/"><img height="30" alt="PHP" src="https://user-images.githubusercontent.com/73925434/121836625-cb5c6b80-cd0e-11eb-98e5-b023f3e58561.png"></a></code> |
 <code><a href="https://www.ruby-lang.org/"><img height="30" alt="Ruby" src="https://user-images.githubusercontent.com/73925434/121836705-fb0b7380-cd0e-11eb-9aff-33e633db6958.png"></a></code> |
+<code><a href="https://www.haskell.org/"><img height="30" alt="Haskell" src="https://user-images.githubusercontent.com/73925434/121844550-24cc9680-cd1f-11eb-91b3-521c51941356.png"></a></code> |
 <code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" src="https://user-images.githubusercontent.com/73925434/121836758-15dde800-cd0f-11eb-91d7-ffc74b2b9eec.png"></a></code> |
 <code><a href="https://www.gatsbyjs.org/"><img height="30" alt="Gatsby" src="https://user-images.githubusercontent.com/73925434/121836791-22fad700-cd0f-11eb-9a92-aa72af2ec8a9.png"></a></code> |
 
-## GitHub Status
+## Status
 
 <a href="https://github.com/tsukasa38"><img align="center" alt="tsukasa38's GitHub stars" src="https://github-readme-stats.vercel.app/api?username=tsukasa38&count_private=true&show_icons=true&theme=react&hide=issues"/></a>
