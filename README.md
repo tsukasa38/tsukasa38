@@ -1,4 +1,4 @@
-### Hi there, I'm tsukasa38👋
+## Introduction
 
 Hi, I'm tsukasa38, a first year master's student in Japan.
 
@@ -6,6 +6,8 @@ Hi, I'm tsukasa38, a first year master's student in Japan.
 - 💻 I’m currently interested in web development (especially frontend)
 - 👔 I'm currently thinking of becoming a web engineer in the future
 - 💬 Ask me about anything [here](https://github.com/tsukasa38/tsukasa38/issues)
+
+## Skill
 
 **Currently often used Languages and Tools:**
 
@@ -25,3 +27,7 @@ Hi, I'm tsukasa38, a first year master's student in Japan.
 <code><a href="https://www.ruby-lang.org/"><img height="30" alt="Ruby" src="https://user-images.githubusercontent.com/73925434/121836705-fb0b7380-cd0e-11eb-9aff-33e633db6958.png"></a></code> |
 <code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" src="https://user-images.githubusercontent.com/73925434/121836758-15dde800-cd0f-11eb-91d7-ffc74b2b9eec.png"></a></code> |
 <code><a href="https://www.gatsbyjs.org/"><img height="30" alt="Gatsby" src="https://user-images.githubusercontent.com/73925434/121836791-22fad700-cd0f-11eb-9a92-aa72af2ec8a9.png"></a></code> |
+
+## GitHub Status
+
+<a href="https://github.com/tsukasa38"><img align="center" alt="tsukasa38's GitHub stars" src="https://github-readme-stats.vercel.app/api?username=tsukasa38&count_private=true&show_icons=true&theme=react&hide=issues"/></a>
